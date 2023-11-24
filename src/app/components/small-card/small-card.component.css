@@ -1,0 +1,33 @@
+.container_small-card-content{
+   
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+}
+.container_small-card{
+  
+    width: 700px;
+    margin-bottom: 15px;
+
+}
+.small-card_photo > img{
+    width: 180px;
+    min-width: 180px;
+    margin-right: 20px;
+}
+.small-card_title > h1{
+    font-size: 20px;
+}
+.small-card_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI';
+    
+}
+a{
+    text-decoration: none;
+}
+.container_small-card_separator{
+    margin-top: 10px;
+}
